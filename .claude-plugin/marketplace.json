@@ -1,0 +1,6 @@
+{
+  "name": "xlinkout-mods",
+  "owner": { "name": "xLinkOut" },
+  "description": "Claude Code mods by xLinkOut",
+  "plugins": [{ "name": "usage-meter", "source": "./" }]
+}

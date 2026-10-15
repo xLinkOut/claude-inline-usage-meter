@@ -1,0 +1,1 @@
+{ "name": "usage-meter", "author": { "name": "xLinkOut" }, "version": "0.1.0", "description": "Mostra % usage e reset della finestra 5h e weekly a destra nel footer del prompt", "types": "./types/index.d.ts" }
